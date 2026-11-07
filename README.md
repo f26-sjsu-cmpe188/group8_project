@@ -197,8 +197,8 @@ The first project presentation is scheduled for **November 17, 2026**.
 
 | Date | Milestone | Main Deliverables |
 |---|---|---|
-| November 6-9, 2026 | Data exploration and preprocessing | Clean dataset, exploratory analysis, feature/target separation, train/test split, and preprocessing pipeline |
-| November 10-11, 2026 | Train machine-learning models | Train multiple baseline models |
+| November 6-8, 2026 | Data exploration and preprocessing | Clean dataset, exploratory analysis, feature/target separation, train/test split, and preprocessing pipeline |
+| November 9-11, 2026 | Train machine-learning models | Train multiple baseline models |
 | November 12-13, 2026 | Compare model performance | Model comparison table, evaluation metrics, and initial best-model selection |
 | November 14, 2026 | Tune the best-performing model | Hyperparameter tuning and cross-validation results |
 | November 15, 2026 | Complete the final report | Final results, analysis, discussion, and conclusion |

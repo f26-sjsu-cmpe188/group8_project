@@ -191,12 +191,25 @@ The official project requirements and grading rubric have not been provided yet.
 
 The project is currently in the initial setup and data-processing stage.
 
-Future milestones include:
+## Project Timeline
 
-1. Complete data exploration and preprocessing
-2. Train multiple machine-learning models
-3. Compare model performance
-4. Tune the best-performing model
-5. Complete the final report
-6. Prepare the presentation
-7. Review and submit the final project
+The first project presentation is scheduled for **November 17, 2026**.
+
+| Date | Milestone | Main Deliverables |
+|---|---|---|
+| November 6-9, 2026 | Data exploration and preprocessing | Clean dataset, exploratory analysis, feature/target separation, train/test split, and preprocessing pipeline |
+| November 10-11, 2026 | Train machine-learning models | Train multiple baseline models |
+| November 12-13, 2026 | Compare model performance | Model comparison table, evaluation metrics, and initial best-model selection |
+| November 14, 2026 | Tune the best-performing model | Hyperparameter tuning and cross-validation results |
+| November 15, 2026 | Complete the final report | Final results, analysis, discussion, and conclusion |
+| November 16, 2026 | Prepare the presentation | Final slides, charts, speaking roles, and practice presentation |
+| November 17, 2026 | Present the project | First project presentation |
+| November 18-19, 2026 | Final review and submission | Apply presentation feedback, verify all files, and submit the final project if required |
+
+### Team Schedule
+
+- **Jonathan:** Complete and document the data-processing work.
+- **Thien:** Train, compare, and tune the machine-learning models.
+- **Isa:** Coordinate deadlines, combine the report and presentation, and organize the final submission.
+
+The team should commit and push progress to GitHub after each major milestone.
